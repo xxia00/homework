@@ -1,6 +1,6 @@
 {
   "$schema":"https://vega.github.io/schema/vega-lite/v5.json",
-  "title":"",
+  "title":"World Happiness 2018 to 2022",
   "width":800,
   "height":600,
   "projection":{
